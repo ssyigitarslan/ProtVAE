@@ -14,4 +14,5 @@ This folder provides a re-implementation of this paper in PyTorch, developed as 
 * Seyit Semih Yiğitarslan, e265507@metu.edu.tr
 
 Please see the jupyter notebook file [main.ipynb](main.ipynb) for a summary of paper, the implementation notes and our experimental results.
- 
+
+You can download the dataset using the [download_data.sh](download_data.sh)script
