@@ -3,7 +3,7 @@
 
 Paper Author 1: Boqiao Lai, Paper Author 2: Matt McPartlon, Paper Author 3: Jinbo Xu
 
-*CVPR 2030*
+*2022*
 
 **HERE: Add a simple picture from your results**
 
